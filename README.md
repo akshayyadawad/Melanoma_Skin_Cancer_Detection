@@ -52,6 +52,6 @@ NOTE: The model training may take time to train as you will be working with larg
 - NumPy
 - Pandas
 
-Dataset [a link] (https://drive.google.com/file/d/1HTdQy67G55pe-689U5SmiXHTNAyFA0fj/view?usp=drive_link)
+Dataset link:https://drive.google.com/file/d/1HTdQy67G55pe-689U5SmiXHTNAyFA0fj/view?usp=drive_link)
 
 You can leverage Google Colab for model training, as it offers the advantage of cloud computing resources, potentially reducing the time required for training due to its access to GPU or TPU accelerators.
