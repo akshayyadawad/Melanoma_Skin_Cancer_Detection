@@ -23,10 +23,10 @@ NOTE: The model training may take time to train as you will be working with larg
 - Dataset Creation → Create train & validation dataset from the train directory with a batch size of 32. Also, make sure you resize your images to 180*180.
 - Dataset visualisation → Create a code to visualize one instance of all the nine classes present in the dataset
 - Model Building & training: 
-1. Create a CNN model, which can accurately detect 9 classes present in the dataset. While building the model, rescale images to normalize pixel values between (0,1).
-2. Choose an appropriate optimiser and loss function for model training
-3. Train the model for ~20 epochs
-4. Write your findings after the model fit. You must check if there is any evidence of model overfit or underfit.
+  1. Create a CNN model, which can accurately detect 9 classes present in the dataset. While building the model, rescale images to normalize pixel values between (0,1).
+  2. Choose an appropriate optimiser and loss function for model training
+  3. Train the model for ~20 epochs
+  4. Write your findings after the model fit. You must check if there is any evidence of model overfit or underfit.
 - Chose an appropriate data augmentation strategy to resolve underfitting/overfitting
 - Model Building & training on the augmented data:
 1. Create a CNN model, which can accurately detect 9 classes present in the dataset. While building the model rescale images to normalize pixel values between (0,1).
