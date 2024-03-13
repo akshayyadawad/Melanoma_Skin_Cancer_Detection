@@ -15,8 +15,6 @@ The data set contains the following diseases:
 - Seborrheic keratosis
 - Squamous cell carcinoma
 - Vascular lesion
-
-NOTE: The model training may take time to train as you will be working with large epochs. It is advised to use GPU runtime in Google Colab.
  
 **Project Pipeline**
 - Data Reading/Data Understanding → Defining the path for train and test images 
@@ -54,4 +52,4 @@ NOTE: The model training may take time to train as you will be working with larg
 
 Dataset link → https://drive.google.com/file/d/1HTdQy67G55pe-689U5SmiXHTNAyFA0fj/view?usp=drive_link
 
-You can leverage Google Colab for model training, as it offers the advantage of cloud computing resources, potentially reducing the time required for training due to its access to GPU or TPU accelerators.
+NOTE: You can leverage Google Colab for model training, as it offers the advantage of cloud computing resources, potentially reducing the time required for training due to its access to GPU or TPU accelerators.
