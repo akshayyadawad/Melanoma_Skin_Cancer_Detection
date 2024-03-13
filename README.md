@@ -22,7 +22,6 @@ NOTE: The model training may take time to train as you will be working with larg
 - Data Reading/Data Understanding → Defining the path for train and test images 
 - Dataset Creation → Create train & validation dataset from the train directory with a batch size of 32. Also, make sure you resize your images to 180*180.
 - Dataset visualisation → Create a code to visualize one instance of all the nine classes present in the dataset
-  
 - Model Building & training: 
 1. Create a CNN model, which can accurately detect 9 classes present in the dataset. While building the model, rescale images to normalize pixel values between (0,1).
 2. Choose an appropriate optimiser and loss function for model training
